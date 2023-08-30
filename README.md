@@ -47,7 +47,7 @@ The backtrack function should accept a partial assignment assignment as input an
    ```
    python generate.py data/'dataset file 1' data/'dataset file 2' (Yes/No) output.png
    ```
-   (You can use either `structure0.txt` or `structure1.txt` or `structure2.txt` for the dataset file 1)
-   (You can use either `words0.txt` or `words1.txt` or `words2.txt` for the dataset file 2)
+   (You can use either `structure0.txt` or `structure1.txt` or `structure2.txt` for the dataset file 1)\
+   (You can use either `words0.txt` or `words1.txt` or `words2.txt` for the dataset file 2)\
    (You can use either `Yes` for the ac3 interleave pruning or `No` for the normal ac3)
    
