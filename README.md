@@ -49,5 +49,9 @@ The backtrack function should accept a partial assignment assignment as input an
    ```
    (You can use either `structure0.txt` or `structure1.txt` or `structure2.txt` for the dataset file 1)\
    (You can use either `words0.txt` or `words1.txt` or `words2.txt` for the dataset file 2)\
-   (You can use either `Yes` for the ac3 interleave pruning or `No` for the normal ac3)
+   (You can use either `Yes` for the ac3 interleave pruning or `No` for the normal ac3)\
+   *Note: You'll need to install Pillow package to generate an image file corresponding to a given assignment
+   ```
+   pip install Pillow
+   ```
    
